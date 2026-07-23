@@ -5,7 +5,7 @@ on:
 
   schedule:
     # 毎日21:15（日本時間）に実行
-    - cron: "15 12 * * *"
+    - cron: "0 16 * * *"
 
 concurrency:
   group: github-pages
