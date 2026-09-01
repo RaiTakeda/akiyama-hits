@@ -4,9 +4,9 @@ window.AKIYAMA_STATS = {
   "previousHits": 1832,
   "currentHits": 49,
   "totalHits": 1881,
-  "asOfDate": "2026.8.31",
-  "asOfDateIso": "2026-08-31",
-  "sourceDateText": "2026年8月31日（月） 現在",
+  "asOfDate": "2026.9.1",
+  "asOfDateIso": "2026-09-01",
+  "sourceDateText": "2026年9月1日（火） 現在",
   "sourceUrl": "https://npb.jp/bis/players/31135133.html",
-  "generatedAtUtc": "2026-08-31T21:15:40+00:00"
+  "generatedAtUtc": "2026-09-01T19:08:49+00:00"
 };
