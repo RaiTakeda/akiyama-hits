@@ -8,5 +8,5 @@ window.AKIYAMA_STATS = {
   "asOfDateIso": "2026-09-11",
   "sourceDateText": "2026年9月11日（金） 現在",
   "sourceUrl": "https://npb.jp/bis/players/31135133.html",
-  "generatedAtUtc": "2026-09-11T18:55:16+00:00"
+  "generatedAtUtc": "2026-09-12T18:01:31+00:00"
 };
